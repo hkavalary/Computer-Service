@@ -7,21 +7,21 @@ body {
 }
 
 h1 {
-  color: #66BFBF;
+  color: #00008b;
   font-size: 562.5%;
   margin-top: 50px auto 0 auto;
   font-family: 'Courier Prime', sans-serif;
 }
 
 h2 {
-  color: #66BFBF;
+  color: #00008b;
   font-size: 2.5rem;
   font-family: 'Courier Prime', sans-serif;
   font-weight: normal;
 }
 
 h3 {
-  color: #11999E;
+  color: #00008b;
   font-family: 'Courier Prime', sans-serif;
   }
 
@@ -29,7 +29,7 @@ div {
   background-color: #FAEBD7;
 }
 hr {
-  border: dotted #66BFBF 6px;
+  border: dotted #00008b 6px;
   border-bottom: none;
   width: 60%;
   margin: 50px auto;
@@ -38,7 +38,7 @@ a {
   margin: 10px 20px;
 }
 a:hover {
-  color: #66BFBF;
+  color: #00008b;
 }
 
 .top-container {
@@ -60,7 +60,7 @@ a:hover {
   line-height: 2;
 }
 .copyright {
-  color: #EAF6F6;
+  color: #00008b;
 }
 
 .top-cloud {
